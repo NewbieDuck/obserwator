@@ -1,6 +1,4 @@
 import requests
-
-
 def downloadValue():
     url = 'https://api.nbp.pl/api/exchangerates/rates/A/EUR?format=json'
 

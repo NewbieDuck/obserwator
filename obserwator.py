@@ -84,6 +84,7 @@ if __name__ == "__main__":
     old = rates
 
 
+
     while True:
 
         # random_number = round(random.uniform(4.00, 5.00), 2)
